@@ -10,7 +10,7 @@ ECHO https://ytdl-org.github.io/youtube-dl/supportedsites.html
 ECHO.
 ECHO All output files are in .wav format
 ECHO.
-ECHO If you run into any errors, view the readme file. Chances r u need to update system variables, install c++ package, or install new version of ytdlp.exe
+ECHO If you run into any errors, view the readme file. Chances r u need to install ffmpeg or install new version of ytdlp.exe
 
 :start
 ECHO.
@@ -58,4 +58,5 @@ ECHO.
 ECHO Exiting Application
 PAUSE
 EXIT
+
 
